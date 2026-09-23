@@ -1,0 +1,19 @@
+# Protokolle (enthalten Rechnernamen, Pfade und Benutzernamen)
+Protokolle/
+*.log
+
+# Festplatten-Images und Sicherungen - viel zu gross und privat
+*.vhdx
+*.vhd
+*.avhdx
+*.bak
+*_autoupdate_*.vhdx
+
+# Lokale Einstellungen und Zeitplan-Dateien
+einstellungen.json
+AutoUpdate-Zeitplan.cmd
+AutoUpdate-Zeitplan-Liste.txt
+
+# Windows-Systemdateien
+Thumbs.db
+desktop.ini
